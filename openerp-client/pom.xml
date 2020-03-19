@@ -6,7 +6,7 @@
     <parent>
         <artifactId>openerp-service</artifactId>
         <groupId>org.bahmni.openerp</groupId>
-        <version>0.93-SNAPSHOT</version>
+        <version>0.93.1</version>
     </parent>
 
     <groupId>org.bahmni.openerp</groupId>
